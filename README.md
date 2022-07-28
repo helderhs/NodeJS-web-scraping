@@ -1,6 +1,12 @@
 # NodeJS Webscraper
 Demo usando 3 maneiras de usar web-scraping com nodejs
 
+`selenium`
+
+`puppeteer`
+
+`cheerio`
+
 
 ## To run this project
 
