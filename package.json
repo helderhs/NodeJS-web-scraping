@@ -1,0 +1,21 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startDev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10",
+    "chromedriver": "^103.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^15.4.0",
+    "selenium-webdriver": "^4.3.1"
+  }
+}
